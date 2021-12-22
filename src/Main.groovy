@@ -4,7 +4,7 @@ import static Subtract.subtract
 import static Sum.sum
 
 def name = "Ameer"
-int programmingPoints = 20
+int programmingPoints = 2000
 
 println "Hello ${name}"
 println "${name} has at least ${programmingPoints} programming points."
